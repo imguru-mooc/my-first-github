@@ -9,3 +9,4 @@
 ```bash
 git clone https://github.com/imguru-mooc/my-first-github.git
 cd my-first-github
+안녕하세요
